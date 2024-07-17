@@ -1,18 +1,15 @@
+## 🧔🏼‍♂️ Sobre Mim
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7F7F7FF&vCenter=true&width=435&lines=Front-end+developer+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB;Em+desenvolvimento%F0%9F%94%A7;Melhor+a+cada+dia+%F0%9F%93%88)
-
-## 👋 Sobre Mim
-Olá! Sou estudante de Ciência da Computação, atualmente no sexto período. Estou focando em aprender mais a fundo as tecnologias de front-end, pois é a área em que pretendo ingressar profissionalmente. Sempre fui apaixonado por tecnologia e, quando não estou codando, você provavelmente me encontrará lendo ou jogando, mas sempre com uma boa xícara de café ao lado
+<br>
+Olá! Sou estudante de Ciência da Computação, atualmente no sexto período. Estou focando em aprender mais a fundo as tecnologias de front-end, pois é a área em que pretendo ingressar profissionalmente. Sempre fui apaixonado por tecnologia e, quando não estou codando, você provavelmente me encontrará lendo ou jogando, mas sempre com uma boa xícara de café ao lado.
 ## 🌐 Onde me encontrar.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imvictorariel/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lima-043b61286)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorarielima@gmail.com) 
-<br><br>
-
+<br>
 
 ![ Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarielima&show_icons=true&theme=midnight-purple)
-<br><br>
-
-
+<br>
 ## ⌨️ Tecnologias que tenho mais afinidade.
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
