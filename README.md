@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=7F3ACE&vCenter=true&width=435&lines=Front-end+developer+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB;Em+desenvolvimento%F0%9F%94%A7;Melhor+a+cada+dia+%F0%9F%93%88)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7F7F7FF&vCenter=true&width=435&lines=Front-end+developer+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB%F0%9F%92%BB;Em+desenvolvimento%F0%9F%94%A7;Melhor+a+cada+dia+%F0%9F%93%88)
+
 ## 👋 Sobre Mim
 Olá! Sou estudante de Ciência da Computação, atualmente no sexto período. Estou focando em aprender mais a fundo as tecnologias de front-end, pois é a área em que pretendo ingressar profissionalmente. Sempre fui apaixonado por tecnologia e, quando não estou codando, você provavelmente me encontrará lendo ou jogando, mas sempre com uma boa xícara de café ao lado
 ## 🌐 Onde me encontrar.
