@@ -2,7 +2,7 @@
 
 
 
-![ Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarielima&show_icons=true&theme=midnight-purp)
+![ Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarielima&show_icons=true&theme=midnight-purple)
 
 
 
