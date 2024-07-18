@@ -8,7 +8,7 @@ Olá! Sou estudante de Ciência da Computação, atualmente no sexto período. E
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorarielima@gmail.com) 
 <br>
 
-![ Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarielima&show_icons=true&theme=midnight-purple)
+![ victor ariel GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarielima&show_icons=true&theme=midnight-purple)
 <br>
 ## ⌨️ Tecnologias que tenho mais afinidade.
 <div style="display: inline_block">
